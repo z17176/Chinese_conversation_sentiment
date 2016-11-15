@@ -605,7 +605,6 @@ negative,不 喜欢 贝贝
 negative,不 喜欢 表情 撇嘴
 negative,不 喜欢 … 别人 回答 哦 或者 恩
 negative,不 喜欢 苍蝇
-negative,不 喜欢 陈瑜洁
 negative,不 喜欢 诚渣
 negative,不 喜欢 吃
 negative,不 喜欢 吃海鲜 路过
@@ -1657,7 +1656,7 @@ negative,工作 不顺心 心情 才 会 烦躁
 negative,工作 能力差 丢人
 negative,弓虽 女干
 negative,弓虽 女千
-negative,龚智星  神经病 吧
+negative,神经病 吧
 negative,勾引
 negative,狗
 negative,狗不理 包子
@@ -1730,8 +1729,6 @@ negative,滚 你 丫 滴 闷骚
 negative,滚 去死吧 看着 就 恶心
 negative,滚 又 不 喜欢
 negative,衮 你 丫
-negative,郭 冯涛 强奸
-negative,郭恒斌 笨蛋
 negative,国产 动画 被 指 抄袭
 negative,果果 这 表情 猥琐  
 negative,果然 次品
@@ -3080,7 +3077,7 @@ negative,莫名其妙 会 用 皮肤
 negative,默默 逃避 还 生小孩
 negative,木卡 有寸 折本
 negative,木马 人 任性
-negative,♂ 木纹 .. 秦鹏 因为 违规 已经 被 送走
+negative,♂ 木纹 .因为 违规 已经 被 送走
 negative,牧马人 也 没有 霸道 多 一路 走来 看到 基本 都 丰田 霸道
 negative,目前 群里 还 没有 鬼子 可以 杀
 negative,拿 什么 非礼
@@ -3605,7 +3602,6 @@ negative,强奸 小欧
 negative,强奸 小云
 negative,强奸 小智
 negative,强奸 小智 机器人 
-negative,强奸 杨冰
 negative,强奸 一个 妹子
 negative,强奸 真心
 negative,强弩之末
@@ -3633,7 +3629,7 @@ negative,抢劫 寶山 泰迪 COFFEE
 negative,抢劫 寶山 泰迪 COFFEE 
 negative,抢劫 抱抱
 negative,抢劫 不蒸 馒头 争口气
-negative,抢劫 陈可心 女神 
+negative,抢劫 女神 
 negative,抢劫 橙子 助理 
 negative,抢劫 次数
 negative,抢劫 大浪 ➪ 机器人 
@@ -3647,7 +3643,7 @@ negative,抢劫 对不起 不配
 negative,抢劫 对方 QQ
 negative,抢劫 多少 可能 进 监狱
 negative,抢劫 〒 〒 呃
-negative,抢劫 港中 李娜 
+negative,抢劫 港中
 negative,抢劫 り 故事 她
 negative,抢劫 关买 黄瓜 P 事 机器人
 negative,抢劫 丨 小玉 丨 小贝 贝 
@@ -3953,7 +3949,7 @@ negative,傻子 机器人
 negative,傻子 就 听 不到
 negative,傻子 娶
 negative,傻子 谁
-negative,傻子 说 童星 曲婉婷
+negative,傻子 说 童星
 negative,傻子 小 i
 negative,傻子 小金
 negative,傻子 一个
@@ -4461,7 +4457,6 @@ negative,讨厌 呵呵
 negative,讨厌 哼
 negative,讨厌 机器人
 negative,讨厌 贱人
-negative,讨厌 蒋高婷
 negative,讨厌 扣 钱
 negative,讨厌 夸 还 不知足
 negative,讨厌 啦
@@ -6271,7 +6266,7 @@ negative,坐牢 也 把 卖
 positive,AAAAAA 美女
 positive,Accompa ╮ ° 哎 呦 哒 晚安
 positive,amp 什么样 地 男人 招 人 喜欢
-positive,baby 喜欢 郑恺 嘛
+positive,baby 喜欢 嘛
 positive,bot 不灵 还 得 人 哈哈
 positive,by 冰吻  你好 漂亮
 positive,cool 组队 插件
@@ -6655,7 +6650,7 @@ positive,菜菜 晚安 摸摸 大
 positive,苍茫 天涯 爱
 positive,藏龙卧虎
 positive,藏头诗 逗 大神 最 伟大
-positive,藏头诗 顾晨 无敌
+positive,藏头诗 无敌
 positive,藏头诗 情侣
 positive,藏头诗 天下无敌
 positive,藏头诗 汪 圣明
@@ -8613,7 +8608,6 @@ positive,了如指掌
 positive,冷静
 positive,冷静 点
 positive,冷静 冷静
-positive,李杰 喜欢
 positive,李勇 知名度 这么 高
 positive,理化 讲究 对 公式
 positive,理解 宽容
@@ -9172,20 +9166,14 @@ positive,佩服 吧
 positive,佩服 理解能力
 positive,佩服 佩服
 positive,佩服 佩服 不得
-positive,配对 蔡李杰 代 欣悦
 positive,配对 荷香 飞扬
-positive,配对 李 文豪 陈佳莹
 positive,配对 李逍遥 乖乖
-positive,配对 刘 富强 曾旭辉
 positive,配对 梦天 星辰 菲菲 
 positive,配对 苗苗 乖乖
-positive,配对 念 文豪 林舒雨
 positive,配对 情天 飞扬
-positive,配对 思恋 和琳姐
 positive,配合
 positive,配合 表演
 positive,配合 工作
-positive,配合 信峰 颜清
 positive,配合 真 好
 positive,朋友 们 face gif 晚安
 positive,朋友 们 别 那 d 小气 上来 唱
@@ -9738,7 +9726,7 @@ positive,说 太 深奥
 positive,说 晚安
 positive,说 我爱你 一生一世 不 离弃
 positive,说 我算 美女 嘛
-positive,说 吴芝艳 美女
+positive,说 美女
 positive,说 喜欢
 positive,说 喜欢 类型
 positive,说 喜欢 上
@@ -10243,7 +10231,6 @@ positive,喜欢 风友
 positive,喜欢 干嘛
 positive,喜欢 干 啥
 positive,喜欢 干什么
-positive,喜欢 高彬
 positive,喜欢 搞基
 positive,喜欢 咯
 positive,喜欢 哥哥
@@ -10745,7 +10732,6 @@ positive,小智 喜欢 大叔
 positive,小智 喜欢 娟 娟
 positive,小智 喜欢 苹果 还是 菠萝
 positive,小智 喜欢 嫂子 嘛
-positive,小智 喜欢 吴欢
 positive,小智 喜欢 武汉 狼王 护肤 
 positive,小智 喜欢 一个 女孩 怎么 追
 positive,小智 喜欢 志龙
